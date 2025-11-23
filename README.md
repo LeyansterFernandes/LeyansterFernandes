@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leyanster (Lee)</h1>
 <h3 align="center">Founder of Builders Brew | Final Year @ RHUL | Hackathon Enthusiast & AI Builder</h3>
 
-- 🔭 I’m currently working on **Builders Brew**, a student-founder community helping makers connect, learn, and ship ideas.  
+- 🔭 I’m currently working on **[Builders Brew](https://buildersbrew.co)**, a student-founder community helping makers connect, learn, and ship ideas.  
   Also building tools like a **Mac Utility Automator**, a **LinkedIn Network Aggregator**, and a **Local LLM Campus Exploration App** for my final year project.
 
 - 🌱 I’m currently learning **Machine Learning**, **Local LLMs**, and **React Native** to build smarter, mobile-first AI tools.
